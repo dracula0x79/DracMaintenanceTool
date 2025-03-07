@@ -49,17 +49,14 @@ Select an option:
 
 ## Download & Run:
 1. Clone the repository:
-   ```sh
+   ```
    git clone https://github.com/dracula0x79/DracUtility79.git
    ```
 2. Navigate to the folder and run:
-```sh
+   ```
    cd DracUtility79
    DracUtility79.bat
-or just right-click & run as Administrator
-   ```
 
-
-![Image 2025-03-07 at 20 45 24_f65ae7c2](https://github.com/user-attachments/assets/9ffade64-e9d7-4603-83d4-5745a7b6e3b6)
-
+  or just right-click & run as Administrator
+  ```
 
