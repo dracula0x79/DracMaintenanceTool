@@ -1,7 +1,7 @@
 # DracUtility79 - Windows Maintenance Tool
 
-DracUtility79 is a lightweight and efficient batch script designed to automate essential Windows maintenance tasks.  
-I originally developed this tool as part of my IT work, where employees frequently reported slow performance and system issues.  
+DracUtility79 is a simple batch script that helps automate common Windows maintenance tasks.  
+I created this tool as part of my IT work to assist employees who often faced slow system performance and other issues.  
 
 ```
 │███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
@@ -49,14 +49,14 @@ Select an option:
 
 ## Download & Run:
 1. Clone the repository:
-   ```
-   git clone https://github.com/dracula0x79/DracUtility79.git
-   ```
+```
+git clone https://github.com/dracula0x79/DracUtility79.git
+```
 2. Navigate to the folder and run:
-   ```
-   cd DracUtility79
-   DracUtility79.bat
 
-  or just right-click & run as Administrator
-  ```
+```
+cd DracUtility79
+DracUtility79.bat
+or just right-click & run as Administrator
+```
 
