@@ -3,6 +3,36 @@
 DracUtility79 is a lightweight and efficient batch script designed to automate essential Windows maintenance tasks.  
 I originally developed this tool as part of my IT work, where employees frequently reported slow performance and system issues.  
 
+```
+│███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
+│██╔════╝██╔════╝██╔═══██╗██╔════╝██║██╔════╝╚══██╔══╝╚██╗ ██╔╝
+│█████╗  ███████╗██║   ██║██║     ██║█████╗     ██║    ╚████╔╝
+│██╔══╝  ╚════██║██║   ██║██║     ██║██╔══╝     ██║     ╚██╔╝
+│██║     ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║
+ ╚═╝     ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+   .#####.
+  .##  ##.        WINDOWS SYSTEM MAINTENANCE TOOL
+  ## / \ ##  /* *       by @dracula0x79   (Ebrahim_Hussein)
+  ## \ / ##
+  '## v ##'
+   '#####'
+
+[1] Scan and repair system files
+[2] Repair Windows issues (DISM)
+[3] Check and fix disk errors
+[4] Delete temporary files
+[5] Flush DNS cache
+[6] Run all tasks
+[7] Update installed programs
+[8] Help
+[0] Exit
+
+Select an option:
+
+
+```
+
 ## Features:
 - **System File Repair** (`sfc /scannow`) – Fix corrupted system files.
 - **Windows Issues Fix** (DISM) – Repair Windows features and services.
@@ -30,6 +60,6 @@ or just right-click & run as Administrator
    ```
 
 
-![Uploading WhatsApp Image 2025-03-07 at 20.45.24_3614b193.jpg…]()
+![Image 2025-03-07 at 20 45 24_f65ae7c2](https://github.com/user-attachments/assets/9ffade64-e9d7-4603-83d4-5745a7b6e3b6)
 
 
