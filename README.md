@@ -1,7 +1,6 @@
 # DracUtility79 - Windows Maintenance Tool V2
 
-DracUtility79 is a  batch script that helps automate common Windows maintenance tasks.  
-I created this tool as part of my IT work to assist employees who often faced slow system performance and other issues.  
+Now in version 2.0, **DracUtility79** is more than just a basic cleanup script—it is a comprehensive Windows maintenance utility. Developed from real-world IT experience to resolve common performance issues, it automates system repair, network troubleshooting, and performance tuning into a single command-line interface."
 
 ```
 │███████╗███████╗ ██████╗  ██████╗██╗███████╗████████╗██╗   ██╗
@@ -13,7 +12,7 @@ I created this tool as part of my IT work to assist employees who often faced sl
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
    .#####.
   .##  ##.        WINDOWS SYSTEM MAINTENANCE TOOL
-  ## / \ ##  /* *       by @dracula0x79  v1 ====> v2
+  ## / \ ##  /* *       by @dracula0x79  v1 ====> v2.0
   ## \ / ##
   '## v ##'
    '#####'
@@ -27,7 +26,7 @@ I created this tool as part of my IT work to assist employees who often faced sl
 [7] Update installed programs
 [8] Help
 [0] Exit
-
+[!] version is outdated
 Select an option:
 
 
