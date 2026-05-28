@@ -55,8 +55,8 @@ git clone https://github.com/dracula0x79/DracMaintenanceTool.git
 2. Navigate to the folder and run:
 
 ```
-cd DracUtility79
-DracUtility79.bat
+cd DracMaintenanceTool
+.\DracUtility79.bat
 or just right-click & run as Administrator
 ```
 
